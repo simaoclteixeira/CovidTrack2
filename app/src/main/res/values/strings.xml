@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CovidTrack2</string>
+    <string name="profiles">Profiles</string>
 </resources>
